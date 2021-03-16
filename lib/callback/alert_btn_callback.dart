@@ -1,0 +1,4 @@
+class AlertBtnCallback{
+  void positiveBtnClicked(){}
+
+}
